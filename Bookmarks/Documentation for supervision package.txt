@@ -1,0 +1,1 @@
+https://supervision.roboflow.com/latest/detection/annotators/#supervision.annotators.utils.ColorLookup
