@@ -11,7 +11,7 @@ This ongoing project focuses on detecting underwater markers in images to monito
 ## Why
 Monitoring underwater markers is crucial for studying climate change impacts such as rising sea levels, coral degradation, and ecosystem shifts. By analyzing the distance between markers over time, we can gain insights into environmental changes and better understand the effects of climate change on underwater ecosystems.
 
----
 
-### Status: 🚧 Ongoing Development
+
+
 
